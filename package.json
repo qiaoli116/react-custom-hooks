@@ -1,11 +1,7 @@
 {
-<<<<<<< Updated upstream
-  "name": "react-custom-hooks",
-  "version": "1.0.3",
-=======
   "name": "ql-react-custom-hooks",
-  "version": "1.0.2",
->>>>>>> Stashed changes
+  "version": "1.0.4",
+
   "description": "A collection of react custom hooks",
   "main": "index.js",
   "scripts": {
