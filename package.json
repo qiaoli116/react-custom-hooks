@@ -1,0 +1,19 @@
+{
+  "name": "react-custom-hooks",
+  "version": "1.0.1",
+  "description": "A collection of react custom hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiaoli116/react-custom-hooks.git"
+  },
+  "author": "qiaoli116",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qiaoli116/react-custom-hooks/issues"
+  },
+  "homepage": "https://github.com/qiaoli116/react-custom-hooks#readme"
+}
