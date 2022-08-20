@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/qiaoli116/react-custom-hooks/issues"
   },
-  "homepage": "https://github.com/qiaoli116/react-custom-hooks#readme"
+  "homepage": "https://github.com/qiaoli116/react-custom-hooks#readme",
+  "dependencies": {
+    "gitignore": "^0.7.0",
+    "readme-md-generator": "^1.0.0"
+  }
 }
