@@ -8,7 +8,7 @@
 
 ### 🏠 [Homepage](https://github.com/qiaoli116/react-custom-hooks#readme)
 
-### ✨ [Demo](demo to be updated)
+### ✨ [Demo](https://codesandbox.io/s/ql-react-custom-hooks-demo-gohsb9)
 
 ## Install
 
